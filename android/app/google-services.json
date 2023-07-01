@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511865687021",
+    "project_id": "nex-student-app",
+    "storage_bucket": "nex-student-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511865687021:android:afea703d2eba63000bb5e4",
+        "android_client_info": {
+          "package_name": "com.example.blockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511865687021-5hnt7dh0gt5eaki6874ru94on6ffdpi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCaQDerc0i08mH1JLrjR1Dkp6OyrSf0tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511865687021-5hnt7dh0gt5eaki6874ru94on6ffdpi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
